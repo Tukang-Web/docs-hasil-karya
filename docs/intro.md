@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Apa Itu Sistem Manajemen Proyek
+# Apa Itu Sistem Manajemen Proyek (SiMonRo)
 SiMonRo merupakan sistem yang dirancang untuk mengelola data proyek. Dengan memastikan bahwa proyek dapat berjalan dengan lancar dan efisien, serta meminimalkan risiko terkait manajemen data untuk meningkatkan transparansi.
 
 
